@@ -11,7 +11,7 @@ const cover = document.getElementById('cover');
 const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
-// Song titles
+// Song titles 
 const songs = ['hey', 'summer', 'ukulele'];
 
 // Keep track of song
